@@ -1,6 +1,8 @@
 ## What's this?
 
 It's a Slack bot to encourage us KPT retrospect.
+<img width="797" alt="2018-11-30 0 08 50" src="https://user-images.githubusercontent.com/1695727/49266654-5b609f80-f49a-11e8-9d75-6cfc25937351.png">
+
 
 ## Usage
 
